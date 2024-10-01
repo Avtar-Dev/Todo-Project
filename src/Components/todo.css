@@ -1,0 +1,75 @@
+.containerr {
+  background: aqua !important;
+  padding-bottom: 26rem !important;
+  /* gap: 0rem !important; */
+  width: 55rem;
+  height: 31rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+  padding-top: 3rem;
+  margin-left: 27rem;
+}
+
+.main-div {
+  width: 440px;
+  height: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.add-btn {
+  /* margin-top: 1rem;
+  margin-left: 42%;
+  display: flex;
+  align-items: center;
+  justify-content: center; */
+  width: 30%;
+}
+
+.div-ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 433px;
+  margin-top: 1rem;
+}
+
+.li {
+  list-style: none;
+  background: #a5b2e1;
+  height: 40px;
+  width: 433px;
+  margin-top: 1rem;
+  margin-left: -25px;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.del-btn {
+  margin-left: 20rem;
+  padding-top: 2px;
+  margin-top: 2px;
+  position: absolute;
+}
+
+.edit-btn {
+  padding: 0 10px;
+  margin-left: 256px;
+  margin-top: 3px;
+  border: 1px solid #3774e1;
+  border-radius: 16%;
+  height: 34px;
+}
+
+.btn-div {
+  display: flex;
+  position: static;
+}
+
+/* .new-btns{
+    height: 50px;
+    width: 60px;
+} */
