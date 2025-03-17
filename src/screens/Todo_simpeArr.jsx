@@ -15,7 +15,7 @@ const Todo = () => {
   };
 
   const btnHandle = () => {
-    // console.log("trim" + inputVal?.trim() + "==");
+    console.log("trim" + inputVal?.trim() + "==");
     if (inputVal?.trim() == "") {
       setParagraph("Please Enter Text");
     }
